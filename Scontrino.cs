@@ -46,7 +46,7 @@ namespace _12___Integrazione_esercitazione_11
         }
 
         public void Ordina()
-        {
+        { 
           
         }
 
